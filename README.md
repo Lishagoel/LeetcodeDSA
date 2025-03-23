@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
