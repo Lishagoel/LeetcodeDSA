@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
