@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
