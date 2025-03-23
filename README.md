@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Design
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
