@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
@@ -144,5 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
