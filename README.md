@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0078-subsets) |
