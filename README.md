@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 ## Binary Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0079-word-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
