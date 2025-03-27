@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
