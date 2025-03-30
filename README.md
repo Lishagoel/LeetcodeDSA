@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |
