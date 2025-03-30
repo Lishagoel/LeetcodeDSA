@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
