@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2235-capitalize-the-title](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Sorting
