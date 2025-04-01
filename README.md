@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Design
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
+| [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Binary Search
 |  |
 | ------- |
