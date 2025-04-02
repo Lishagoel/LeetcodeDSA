@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Design
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [2159-two-out-of-three](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 ## Greedy
 |  |
 | ------- |
