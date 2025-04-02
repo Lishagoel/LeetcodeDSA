@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Design
 |  |
 | ------- |
