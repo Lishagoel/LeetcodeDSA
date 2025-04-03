@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2401-count-asterisks](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2401-count-asterisks) |
 ## Sorting
 |  |
 | ------- |
