@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0125-valid-palindrome) |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
