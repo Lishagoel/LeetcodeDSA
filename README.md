@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0112-path-sum) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
 |  |
 | ------- |
