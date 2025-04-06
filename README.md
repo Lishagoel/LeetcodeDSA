@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0724-find-pivot-index) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
