@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Binary Search
