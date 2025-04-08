@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
