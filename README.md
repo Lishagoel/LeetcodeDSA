@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
