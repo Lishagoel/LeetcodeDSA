@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3548-find-the-count-of-good-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Tree
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Simulation
 |  |
 | ------- |
