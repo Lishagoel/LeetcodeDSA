@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
+| [1656-count-good-triplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
