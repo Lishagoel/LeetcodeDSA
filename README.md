@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2050-count-good-numbers) |
 ## String Matching
 |  |
 | ------- |
