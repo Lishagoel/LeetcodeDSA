@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3379-transformed-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3379-transformed-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Design
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
