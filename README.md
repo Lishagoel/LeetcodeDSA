@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
