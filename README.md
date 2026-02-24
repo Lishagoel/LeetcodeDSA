@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3379-transformed-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3379-transformed-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2998-count-symmetric-integers) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3548-find-the-count-of-good-integers) |
 ## Bit Manipulation
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Stack
 |  |
 | ------- |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3721-longest-balanced-subarray-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
 <!---LeetCode Topics End-->
