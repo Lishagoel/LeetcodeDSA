@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
