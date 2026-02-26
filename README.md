@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1656-count-good-triplets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1610-xor-operation-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2050-count-good-numbers) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Stack
