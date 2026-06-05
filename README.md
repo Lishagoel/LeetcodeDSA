@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0409-longest-palindrome) |
 | [0859-buddy-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0859-buddy-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0859-buddy-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0859-buddy-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
