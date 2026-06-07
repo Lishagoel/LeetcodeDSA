@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3379-transformed-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3379-transformed-array) |
 ## Brainteaser
 |  |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
