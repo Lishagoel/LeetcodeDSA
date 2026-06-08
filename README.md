@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2159-two-out-of-three) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0067-add-binary) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Lishagoel/LeetcodeDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3379-transformed-array) |
 ## Brainteaser
 |  |
