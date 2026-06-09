@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Lishagoel/LeetcodeDSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
 | ------- |
