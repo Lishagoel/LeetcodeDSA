@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0859-buddy-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Lishagoel/LeetcodeDSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0680-valid-palindrome-ii) |
 | [0859-buddy-strings](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0859-buddy-strings) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Lishagoel/LeetcodeDSA/tree/master/0724-find-pivot-index) |
